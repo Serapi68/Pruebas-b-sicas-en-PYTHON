@@ -1,19 +1,19 @@
 # Pruebas en PYTHON
 
-Pequeño repositorio con ejemplos utiles de diferentes herramientas básicas de python, desde un contexto de robótica, no funcional.
+Pequeño repositorio con ejemplos útiles de diferentes herramientas básicas de Python, desde un contexto de robótica, no funcional.
 
 ##  Objetivos
 
-- Primer acercamiento a python.
-- Analisis de herramientas básicas en python.
+- Primer acercamiento a Python.
+- Análisis de herramientas básicas en Python.
 - Proyectos prácticos con el conocimiento adquirido.
 
 ##  Proceso:
 
-Se hace una iniciación de fundamentos tomando de base documentación e investigación por internet.
+Se hace una iniciación de fundamentos tomando como base documentación e investigación por Internet.
 
 ## Herramientas:
-- PYTHON 3.9.
-- PYGAME.
-- Diversas bibliotecas de python.
+- Python 3.9.
+- Pygame.
+- Diversas bibliotecas de Python.
 
