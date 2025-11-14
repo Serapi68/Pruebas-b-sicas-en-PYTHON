@@ -13,7 +13,7 @@ Pequeño repositorio con ejemplos utiles de diferentes herramientas básicas de 
 Se hace una iniciación de fundamentos tomando de base documentación e investigación por internet.
 
 ## Herramientas:
--PYTHON 3.9.
--PYGAME.
--diversas bibliotecas de python.
+- PYTHON 3.9.
+- PYGAME.
+- Diversas bibliotecas de python.
 
